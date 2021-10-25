@@ -1,0 +1,2 @@
+# VikoGanz.py
+Baru belajar
